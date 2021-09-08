@@ -1,0 +1,11 @@
+{
+    "https://colorado.rstudio.com/rsc/": {
+        "server_url": "https://colorado.rstudio.com/rsc/",
+        "filename": "/Users/kelly/Sol-Eng/multi-page-dash",
+        "app_url": "https://colorado.rstudio.com/rsc/connect/#/apps/82897408-97ec-4a9e-9a1e-3faac5c1c270",
+        "app_id": 8997,
+        "app_guid": "82897408-97ec-4a9e-9a1e-3faac5c1c270",
+        "title": "multi-page-dash",
+        "app_mode": "python-dash"
+    }
+}
